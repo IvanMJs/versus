@@ -1,2 +1,2 @@
 # versus
-pagina hecha para la banda versus
+Pagina hecha para la banda versus
