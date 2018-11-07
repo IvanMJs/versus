@@ -1,2 +1,2 @@
 # versus
-Pagina hecha para la banda versus https://versusrock.netlify.com/
+Pagina hecha para la banda local Versus https://versusrock.netlify.com/
